@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [你的名字 or GitHub用户名]</h1>
+<h1 align="center">Hi 👋, I'm [YM]</h1>
 <h3 align="center">🚀 A passionate AI learner exploring the world of Machine Learning & Deep Learning</h3>
 
 <p align="center">
